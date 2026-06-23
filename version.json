@@ -26,6 +26,6 @@
   "ThirdIconURL": "https://kingdomofsecrets.com/",
   "fourthIconURL": "https://kingdomofsecrets.com/",
   "ServerName": "asda2",
-  "ServerIP": "155.136.1.0",
+  "ServerIP": "127.0.0.1",
   "ServerPort": "5000"
 }
