@@ -1,0 +1,31 @@
+{
+  "Updates": [
+    {
+      "Version": "0.0",
+      "URL": "http://127.0.0.1/nothing.zip"
+    },
+    {
+      "Version": "1.7",
+      "URL": "https://archive.org/download/atlantis-update-0/AtlantisUpdate%280%29.zip"
+    },
+    {
+      "Version": "1.8",
+      "URL": "https://archive.org/download/deskt-1op/Deskt1op.zip"
+    }
+  ],
+  "LastVersion": "1.7",
+  "ShownVersion": "empires of leagacy- Version x",
+  "FirstAdImage": "",
+  "FirstAdURL": "https://kingdomofsecrets.com/",
+  "SecondAdImage": "https://kingdomofsecrets.com/",
+  "SecondAdURL": "https://kingdomofsecrets.com/",
+  "ThirdAdImage": "https://kingdomofsecrets.com/",
+  "ThirdAdURL": "https://kingdomofsecrets.com/",
+  "FirstIconURL": "https://kingdomofsecrets.com/",
+  "SecondIconURL": "https://kingdomofsecrets.com/",
+  "ThirdIconURL": "https://kingdomofsecrets.com/",
+  "fourthIconURL": "https://kingdomofsecrets.com/",
+  "ServerName": "asda2",
+  "ServerIP": "127.0.0.1",
+  "ServerPort": "5000"
+}
