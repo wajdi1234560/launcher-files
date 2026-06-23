@@ -5,15 +5,15 @@
       "URL": "http://127.0.0.1/nothing.zip"
     },
     {
-      "Version": "1.7",
+      "Version": "2.333",
       "URL": "https://archive.org/download/atlantis-update-0/AtlantisUpdate%280%29.zip"
     },
     {
-      "Version": "1.8",
+      "Version": "3.0",
       "URL": "https://archive.org/download/deskt-1op/Deskt1op.zip"
     }
   ],
-  "LastVersion": "1.7",
+  "LastVersion": "2.333",
   "ShownVersion": "empires of leagacy- Version x",
   "FirstAdImage": "",
   "FirstAdURL": "https://kingdomofsecrets.com/",
